@@ -1,0 +1,23 @@
+In this third update of New York Web Buzz, you will find some colored skins:
+- Shakespeare Blue (event-blue.css)
+- Scarletish Red (event-red
+- Ripe Lemon Yellow (event-yellow
+- Buttercup Orange (event-orange.css)
+- Emerald Green (event-green.css)
+- Lynch Gray (event-main.css)
+
+To use a different main skin: 
+
+1. Find the following lines in the <head></head>:
+<!-- Custom styles for this template -->
+<link href="assets/css/event-main.css" rel="stylesheet">
+
+2. And change the event-main.css to the one you want to try or use: event-blue.css/event-red.css ... etc
+
+To change the skins for the google maps at the end of the documents:
+
+1.Find the following lines in the <head></head>:
+<!-- Custom styles for Google Map -->
+<link rel="stylesheet" href="assets/plugins/custom-google-map/ggl-map-main.css" type="text/css">
+
+2. And change the ggl-map-main.css to the one you want to try or use: ggl-map-blue.css/ ggl-map-red.css etc.. 
